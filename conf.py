@@ -3,7 +3,7 @@ import sphinx_rtd_theme
 project = 'STD Doc '
 copyright = '2022, EPFL'
 html_logo = '_static/img/Oates_Logo-300x120.png'
-html_favicon = '_static/img/Oates_Logo-300x120.png'
+html_favicon = '_static/img/favicon.ico'
 html_theme = 'sphinx_rtd_theme'
 
 exclude_patterns = [
