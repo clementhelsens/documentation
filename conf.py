@@ -1,9 +1,9 @@
 import sphinx_rtd_theme
 
-project = 'FCC Tutorials'
-copyright = '2022, CERN'
-html_logo = '_static/img/fcc-logo-light.png'
-html_favicon = '_static/img/favicon.ico'
+project = 'STD Doc '
+copyright = '2022, EPFL'
+html_logo = '_static/img/Oates_Logo-300x120.png'
+html_favicon = '_static/img/Oates_Logo-300x120.png'
 html_theme = 'sphinx_rtd_theme'
 
 exclude_patterns = [
@@ -17,9 +17,9 @@ html_theme = "sphinx_rtd_theme"
 
 html_context = {
     'display_github': True,
-    'github_user': 'HEP-FCC',
-    'github_repo': 'fcc-tutorials',
-    'github_version': 'master/',
+    'github_user': 'EPFL-STD',
+    'github_repo': 'documentation',
+    'github_version': 'main/',
 }
 
 extensions = [
