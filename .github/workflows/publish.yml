@@ -17,13 +17,13 @@ jobs:
       run: |
         sphinx-build -M html . build
     - name: Publish gh-pages
-      if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
+      if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
       run: |
         cd build/html
         git init
-        git config user.name "Key4hep bot"
-        git config user.email "Key4hep.bot@example.com"
-        git remote add upstream https://vvolkl:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+        git config user.name "std bot"
+        git config user.email "std.bot@example.com"
+        git remote add upstream https://clementhelsens:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
 
         touch .nojekyll
         git add .nojekyll
