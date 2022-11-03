@@ -9,7 +9,9 @@
     :includehidden:
     :caption: Contents:
 
+    resync/README.md
     CONTRIBUTING.md
+
 
 .. toctree::
     :numbered:
