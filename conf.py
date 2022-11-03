@@ -19,7 +19,7 @@ html_context = {
     'display_github': True,
     'github_user': 'EPFL-STD',
     'github_repo': 'documentation',
-    'github_version': '',
+    'github_version': 'main/',
 }
 
 extensions = [
