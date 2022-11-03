@@ -9,7 +9,8 @@
     :includehidden:
     :caption: Contents:
 
-    resync/README.md
+    pipeline_olivier/README.md
+
     CONTRIBUTING.md
 
 

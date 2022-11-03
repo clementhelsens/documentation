@@ -1,11 +1,11 @@
 # Contributing
 
-[starterkit-lessons][repo] is an open source project, and we welcome contributions of all kinds:
+[EPFL-STD][repo] is an open source project, and we welcome contributions of all kinds:
 
-* New lessons;
-* Fixes to existing material;
-* Bug reports; and
-* Reviews of proposed changes.
+1. New repositories with corresponding documentation;
+2. Fixes to existing material;
+3. Bug reports; and
+4. Reviews of proposed changes.
 
 By contributing, you are agreeing that we may redistribute your work under [these licenses][license].
 You also agree to abide by our [contributor code of conduct][conduct].
@@ -15,14 +15,15 @@ You also agree to abide by our [contributor code of conduct][conduct].
 1.  We use the [fork and pull][gh-fork-pull] model to manage changes.
     More information about [forking a repository][gh-fork] and [making a Pull Request][gh-pull].
 
-2.  To build the lessons please install the [dependencies](#dependencies).
+2.  For our documentation and subsequent repositories, you should branch from and submit pull requests against the `main` branch.
 
-2.  For our lessons, you should branch from and submit pull requests against the `master` branch.
+3.  When editing documentation pages, you need only commit changes to the Markdown source files.
 
-3.  When editing lesson pages, you need only commit changes to the Markdown source files.
+4.  To build the lessons please follow the [instructions](#building-the-documentation-locally).
 
-4.  If you're looking for things to work on, please see [the list of issues for all those repositories][issues].
+5.  If you're looking for things to work on, please see [the list of issues for all the repositories in this organisation][issues].
     Comments on issues and reviews of pull requests are equally welcome.
+
 
 ## Building the documentation locally
 
