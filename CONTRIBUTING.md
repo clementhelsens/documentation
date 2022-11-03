@@ -21,33 +21,45 @@ You also agree to abide by our [contributor code of conduct][conduct].
 
 3.  When editing lesson pages, you need only commit changes to the Markdown source files.
 
-4.  If you're looking for things to work on, please see [the list of issues for this repository][issues].
+4.  If you're looking for things to work on, please see [the list of issues for all those repositories][issues].
     Comments on issues and reviews of pull requests are equally welcome.
 
-## Dependencies
+## Building the documentation locally
 
-To build the lessons locally, install the following:
+We recommend using python virtual environment `venv`, but `conda` will also just work fine.
 
-1. [starterkit-ci](https://pypi.org/project/starterkit-ci/)
-
-Then build the pages:
-
-```shell
-$ starterkit_ci build --allow-warnings
-$ starterkit_ci check --allow-warnings
+### Requirements
+Make sure you have `venv` (virtual environment) in your working directory, and create a new virtual environment `myvenv`
+```
+$ python3 -m venv myvenv
 ```
 
-and start a web server to host them:
-
-```shell
-$ cd build
-$ python -m http.server 8000
+Activate it in the shell and install the requirements
 ```
-You can see your local version by using a web-browser to navigate to `http://localhost:8000` or wherever it says it's serving the book.
+$ source myvenv/bin/activate
+pip3 install -r requirements.txt
+```
+
+Your shell prompt will be augmented by the `(myvenv)` prefix, e.g.
+```
+(myvenv) mylaptop:~/documentation
+```
+
+### Building
+The pages are build by executing in the virtual env
+```shell
+sphinx-build -b html . build
+```
+
+### Browsing the result
+Open in your browser the file
+```shell
+$PWD/build/index.html
+```
 
 [conduct]: CONDUCT.md
-[repo]: https://github.com/HEP-FCC/fcc-tutorials
-[issues]: https://github.com/HEP-FCC/fcc-tutorials/issues
+[repo]: https://github.com/EPFL-STD/documentation
+[issues]: https://github.com/EPFL-STD/
 [license]: LICENSE.md
 [pro-git-chapter]: http://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project
 [gh-fork]: https://help.github.com/en/articles/fork-a-repo
