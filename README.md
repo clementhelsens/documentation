@@ -15,6 +15,7 @@ Please enjoy reading this documentation as much as we enjoyed writing it. You wi
     :caption: Contents:
 
     pipeline_olivier/README.md
+    commontools/README.md
     CONTRIBUTING.md
 
 .. toctree::
