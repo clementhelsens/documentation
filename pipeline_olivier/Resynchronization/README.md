@@ -102,7 +102,8 @@ This will produce plots under the directory configure with the variable `save_to
 
 ## Looking at the results
 
-Using the [gallery](https://github.com/EPFL-STD/utils/tree/main/gallery) tool, you can produce browsable results, for example running:
+
+Using the [](Gallery_target) tool, you can produce browsable results, for example running:
 ```shell
 python gallery.py <pathtotheplots>
 ```
