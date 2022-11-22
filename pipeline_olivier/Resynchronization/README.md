@@ -10,9 +10,12 @@ This is the documentation about resynchronization, github project available [her
 Before running, make sure you have achieved the following steps:
 
  1. Have cloned the repository [Resynchronization](https://github.com/EPFL-STD/Resynchronization)
- 2. Create a dedicated virtual environment on top of python 3.7, for example with conda: `conda create -n <mydummyenv> python=3.7`, and activate it `conda activate <mydummyenv>`
+ 2. Create a dedicated virtual environment on top of a recent python version, for example with conda or mamba: `conda create -n <mydummyenv> python=3.10`, and activate it `conda activate <mydummyenv>`
  3. Install all the extra packages listed in the [requirements](https://github.com/EPFL-STD/Resynchronization/blob/main/requirements.txt) `pip3 install -r requirements.txt`
- 4. **Note of caution**: make sure that the python version used to install the extra packages with `pip3` is the one of the virtual environment. You can check that with `which pip3` and it should return something like `/<mypathtoinstall>/anaconda3/envs/<mydummyenv>/bin/pip3`. If that is not the case, you might have to properly add it at the beginning of your `PATH`
+ 4. **Notes of caution**:
+    1. make sure that the python version used to install the extra packages with `pip3` is the one of the virtual environment. You can check that with `which pip3` and it should return something like `/<mypathtoinstall>/anaconda3/envs/<mydummyenv>/bin/pip3`. If that is not the case, you might have to properly add it at the beginning of your `PATH`
+    2. In case you are using python>3.7 you might experience some troubleshooting with `PyQt5`. You might have to install it from source directly as using `pip` it might eaten up all you memory and lead to stop the installation. Go to the [Pypi](https://pypi.org/project/PyQt5/#files) page and download the last version. Unpack it and go inside the directory. Then run this kind of command:
+    `sip-install --verbose --target-dir /<WHEREYOURVIRENVIS>/lib/python3.XX/site-packages --qt-shared`. Please note that you might need to install also `pip install PyQt-builder` 
 
 ## Running
 
