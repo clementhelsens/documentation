@@ -16,7 +16,7 @@ Please enjoy reading this documentation as much as we enjoyed writing it. You wi
 
     pipeline_olivier/README.md
     commontools/README.md
-    meetings/meetings.md
+    meetings/README.md
     CONTRIBUTING.md
 
 .. toctree::
