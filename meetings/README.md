@@ -45,4 +45,4 @@ Main topic:
 ### 2022
 
 
-1. [November 12](2022/Nov-12.md)
+1. [November 22](2022/Nov-12.md)
