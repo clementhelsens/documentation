@@ -10,7 +10,7 @@ Please enjoy reading this documentation as much as we enjoyed writing it. You wi
 ```{eval-rst}
 .. toctree::
     :numbered:
-    :maxdepth: 3
+    :maxdepth: 2
     :includehidden:
     :caption: Contents:
 
