@@ -180,3 +180,7 @@
 .rst-content .discussion.admonition button.toggle-button {
   color: #31708f;
 }
+
+.wy-nav-content {
+    max-width: 72.5% !important;
+}

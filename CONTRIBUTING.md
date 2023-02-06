@@ -70,7 +70,6 @@ $PWD/build/index.html
 
 ```{eval-rst}
 .. toctree::
-    :hidden:
 
     CONDUCT.md
     LICENSE.md

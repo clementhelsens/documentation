@@ -9,9 +9,7 @@ Before starting with this project, you should make sure that you have `anaconda`
 
 ```{eval-rst}
 .. toctree::
-    :hidden:
     :caption: Contents:
 
     gallery/README.md
-
 ```

@@ -9,7 +9,6 @@ Before starting with this project, you should make sure that you have `anaconda`
 
 ```{eval-rst}
 .. toctree::
-    :hidden:
     :caption: Contents:
 
     Resynchronization/README.md

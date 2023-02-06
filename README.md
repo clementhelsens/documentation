@@ -9,9 +9,7 @@ Please enjoy reading this documentation as much as we enjoyed writing it. You wi
 
 ```{eval-rst}
 .. toctree::
-    :numbered:
     :maxdepth: 2
-    :includehidden:
     :caption: Contents:
 
     pipeline_olivier/README.md
@@ -21,9 +19,7 @@ Please enjoy reading this documentation as much as we enjoyed writing it. You wi
     CONTRIBUTING.md
 
 .. toctree::
-    :numbered:
     :maxdepth: 2
-    :includehidden:
     :caption: External links:
 
     EPFL Oates Lab <https://www.epfl.ch/labs/oateslab/>

@@ -1,7 +1,7 @@
 import sphinx_rtd_theme
 
-project = 'STD Doc '
-copyright = '2022, EPFL'
+project = 'TOP Doc '
+copyright = '2023, EPFL'
 html_logo = '_static/img/Oates_Logo-300x120.png'
 html_favicon = '_static/img/favicon.ico'
 html_theme = 'sphinx_rtd_theme'
@@ -26,7 +26,8 @@ extensions = [
     'myst_parser',
     'sphinx_rtd_theme',
     'sphinx_togglebutton',
-    'sphinx_copybutton'
+    'sphinx_copybutton',
+    'sphinx.ext.autosectionlabel'
 ]
 
 myst_enable_extensions = [

@@ -51,3 +51,9 @@ Main topic:
 
 ## Indico rules for Global category
 [see here](https://cern.service-now.com/service-portal?id=kb_article&n=KB0004606)
+
+```{eval-rst}
+.. toctree::
+
+```
+

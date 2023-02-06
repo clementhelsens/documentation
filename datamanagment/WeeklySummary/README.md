@@ -1,4 +1,4 @@
-# Data managment activites
+# Weekly summary
 
 Here you will find the details about all the data managment projects.
 
@@ -9,6 +9,6 @@ Here you will find the details about all the data managment projects.
     :maxdepth: 2
     :caption: Contents:
 
-    WeeklySummary/README.md
-    Projects/README.md
+    2022/README.md
+    2023/README.md
 ```

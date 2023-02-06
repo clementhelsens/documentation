@@ -23,7 +23,7 @@ Main topic: Olivier's Thesis Rehearsal
 5. Still not trivial to do such experiement, should make it clear that is the case. Highlight the discovery in the figures
 6. Useful to have some small introduction (phase transition?)
 7. Good strategy to explain the plots, look at the wild type, look at the blur picture
-8.
+
 
 
 ### Follow up
