@@ -1,5 +1,10 @@
 # Week 5 (Jan. 30)
 
+**[[CAT]](CAT_project) Cut And Tag**
+   * Started to reproduce the workflow
+
+--------------
+
 **[[DLEC]](DLEC_project) Deep Learning Embryo Classification**
   * Setup a dedicated Deep Learning environment on [[ZF]](ZF_project)
   * Prototype code running with 2 images (treated, non-treated)
