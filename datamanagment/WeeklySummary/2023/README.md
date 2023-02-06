@@ -8,4 +8,5 @@
 
     Week5.md
     Week4.md
+    Week3.md
 ```

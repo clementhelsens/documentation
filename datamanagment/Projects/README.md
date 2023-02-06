@@ -8,6 +8,7 @@
     DeepLearningEmbryoClassification.md
     EmbryoQualityMonitoring.md
     HiveMaintenanceRestructurationCleaning.md
+    RealTimeCellTracking.md
     ZebrafishEmbryosDemultiplexing.md
     Zfishator.md
 ```
