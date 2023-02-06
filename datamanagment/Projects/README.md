@@ -6,9 +6,11 @@
     :caption: Contents:
 
     DeepLearningEmbryoClassification.md
+    Documentation.md
     EmbryoQualityMonitoring.md
     HiveMaintenanceRestructurationCleaning.md
     RealTimeCellTracking.md
     ZebrafishEmbryosDemultiplexing.md
+    Zenodo.md
     Zfishator.md
 ```

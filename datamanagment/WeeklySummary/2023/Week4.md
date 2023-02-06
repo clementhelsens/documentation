@@ -26,8 +26,4 @@
    * Setup the linux machine (old machine from Arianne) for multiple users and remote connections. 
    * Machine name "z-fishator" project tag [[ZF]](ZF_project) 
 
---------------
-Action items:
-
-* 
 

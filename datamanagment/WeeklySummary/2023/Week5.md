@@ -3,6 +3,14 @@
   * Setup a dedicated Deep Learning environment on [[ZF]](ZF_project)
   * Prototype code running with 2 images (treated, non-treated)
     * Classification works!
+  * **Action items:**
+    * Wait images from the VAST next weeks and start a real training. Need at least two categories
+
+--------------
+
+* **[[DOC]](DOC_project) Documentation**
+  * Converged on using the same infrastructure for data management status reports and lab documentation (this website)
+  * Started to document what was done the past two months
 
 --------------
 
@@ -31,20 +39,16 @@
    * Found out that there is already a 2TB (unmounted) disk on z-fishator, no need to buy one
    * Continue with machine configuration with setting up specific environments for all users
    * Thinking about connecting the machine to the HIVE
+   * **Action items:**
+      * Investigate the possibility to physically connect the HIVE and Z-Fishator linux machine with optical fiber
 
 --------------
 
 * **[[RTCT]](RTCT_project) Real-Time Cell Tracking**
    * Discussion with Willi about the usage of real time cell tracking and cell state evaluation (to disturb the system at a precise time)
    * Decided to name the project RTCT (Real-Time Cell Tracking)
+* **Action items:**
+   * Continue to explore possibilites wih FIJI and Napari
 
-
---------------
-
-**Action items:**
-
-* **[[DLEC]](DLEC_project)** Wait images from the VAST next weeks and start a real training. Need at least two categories
-* **[[RTCT]](RTCT_project)** Continue to explore possibilites wih FIJI and Napari
-* **[[ZF](ZF_project)** Investigate the possibility to physically connect the HIVE and Z-Fishator linux machine with optical fiber
 
 
