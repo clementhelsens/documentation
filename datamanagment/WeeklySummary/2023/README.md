@@ -6,7 +6,9 @@
     :maxdepth: 2
     :caption: Contents:
 
+    Week6.md
     Week5.md
     Week4.md
     Week3.md
+    Week2.md
 ```

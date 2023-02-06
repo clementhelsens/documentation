@@ -8,20 +8,27 @@
 * **Contributors:** Chloé, Laurel
 * **Starting date:** Dec. 2022
 * **Tools involved:** PyRat
-* **Project documentation**
+* **Project documentation** [Add link once created]
 
-----
+--------
+
 ## Project issues/caveats
 * PyRat exports do not provide history. Very difficult to track changes in tanks as tank situation might have changed between two exports
+
+--------
 
 ## Project TODO list
 - Add amount of food per fish 
 - Consolidate the history between tanks such that the amount of food given corresponds to the actual number of fishes in the tank
 - Send a summary of the discussion (24/01/2023) to Scionics to put some pressure
 
-----
+--------
+
 ## Project History
 * 2023
+    * Week 5:
+        * Email from Guillaume with the protocol details on how to screen the embryos screening 
+        * Waiting for the first data to be added to Pyrat 
     * Week 4: 
         * Discussion with Scionics about implementation of missing features and SV-IT deployement
             * Still a sever side issue at EPFL (python versions) thus running old PyRat version
