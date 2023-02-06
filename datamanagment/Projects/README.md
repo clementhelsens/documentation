@@ -7,6 +7,7 @@
 
     DeepLearningEmbryoClassification.md
     Documentation.md
+    CutAndTag.md
     EmbryoQualityMonitoring.md
     HiveMaintenanceRestructurationCleaning.md
     RealTimeCellTracking.md

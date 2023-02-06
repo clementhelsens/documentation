@@ -1,4 +1,4 @@
-(Zen_project)=
+(ZEN_project)=
 # Zenodo (ZEN)
 
 ## Project summary
