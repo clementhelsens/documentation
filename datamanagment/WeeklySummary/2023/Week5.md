@@ -34,6 +34,15 @@
 
 --------------
 
+**[[RTCT]](RTCT_project) Real-Time Cell Tracking**
+   * Discussion with Willi about the usage of real time cell tracking and cell state evaluation (to disturb the system at a precise time)
+   * Decided to name the project RTCT (Real-Time Cell Tracking)
+* **Action items:**
+   * Continue to explore possibilites wih FIJI and Napari
+
+
+--------------
+
 **[[ZED]](ZED_project) Zebrafish Embryos Demultiplexing**
   * Converge with Cristina on an analysis plan towards the lab meeting Feb. 14
     * Reproduce souporcell demultiplexing published results (contacts with authors)
@@ -47,14 +56,6 @@
    * Thinking about connecting the machine to the HIVE
 * **Action items:**
    * Investigate the possibility to physically connect the HIVE and Z-Fishator linux machine with optical fiber
-
---------------
-
-**[[RTCT]](RTCT_project) Real-Time Cell Tracking**
-   * Discussion with Willi about the usage of real time cell tracking and cell state evaluation (to disturb the system at a precise time)
-   * Decided to name the project RTCT (Real-Time Cell Tracking)
-* **Action items:**
-   * Continue to explore possibilites wih FIJI and Napari
 
 
 
