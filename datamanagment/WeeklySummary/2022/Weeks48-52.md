@@ -1,4 +1,4 @@
-# Weeks 48-52 (Nov. 28 Dec. 26)
+# November - December
 
 **[[DOC]](DOC_project) Documentation**
   * Started a GitHub pages project (ReadTheDocs theme) to host the lab documentation
