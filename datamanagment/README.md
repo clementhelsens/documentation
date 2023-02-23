@@ -9,6 +9,6 @@ Here you will find the details about all the data managment projects.
     :maxdepth: 2
     :caption: Contents:
 
-    WeeklySummary/README.md
+    ExecutiveSummary/README.md
     Projects/README.md
 ```
