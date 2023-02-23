@@ -1,4 +1,4 @@
-# Weekly summary
+# Executive summary
 
 Here you will find the details about all the data managment projects.
 

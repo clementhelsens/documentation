@@ -10,5 +10,6 @@
     Week5.md
     Week4.md
     Week3.md
-    Week2.md
+    February.md
+    January.md
 ```
