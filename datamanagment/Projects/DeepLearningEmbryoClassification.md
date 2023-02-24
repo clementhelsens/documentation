@@ -17,7 +17,7 @@
 
 ## Project issues/caveats
 
-* None
+* Need more images!!
 
 --------
 
