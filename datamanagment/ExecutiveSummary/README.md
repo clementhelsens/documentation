@@ -1,7 +1,8 @@
 # Executive summary
 
-Here you will find the details about all the data managment projects.
+This section provides a monthly summary of all ongoing projects. It is updated on a regular basis most likely on Fridays.
 
+-----------
 
 ```{eval-rst}
 .. toctree::

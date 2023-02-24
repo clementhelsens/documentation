@@ -24,7 +24,7 @@
 --------
 
 4. HIVE roles wrt Olaf
-    * Need to clarify the situation with Olaf, organise a chat?
+    * Need to clarify the situation with Olaf, organize a chat?
 
 --------
 

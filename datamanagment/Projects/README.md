@@ -1,10 +1,13 @@
 # Projects
 
+This section provides a monthly summary of all ongoing projects. It is updated on a regular basis most likely on Fridays.
+
+--------------
 
 ```{eval-rst}
 .. toctree::
     :maxdepth: 1
-    :caption: Contents:
+    :caption: Ongoing:
 
     CutAndTag.md
     DeepLearningEmbryoClassification.md
@@ -15,4 +18,11 @@
     ZebrafishEmbryosDemultiplexing.md
     Zenodo.md
     Zfishator.md
+
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Finished:
+
+
 ```
