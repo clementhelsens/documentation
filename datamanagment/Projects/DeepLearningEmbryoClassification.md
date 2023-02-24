@@ -3,20 +3,29 @@
 
 ## Project summary
 * **Status:** Ongoing
-* **Goals:** 
-* **Contributors:** Cristina
-* **Starting date:** Jan. 2023
-* **Tools involved:** Linux machine (z-fishator)
-* **Project documentation**
+* **Goals:** Categorise images taken by the VAST. Possibly defines more categories to disentengle tiny effect.
+* **Contributors:** Virginie
+* **Starting date:** Feb. 2023
+* **Tools involved:** Linux machine (z-fishator), conda, tensoflow, keras
+* **Project documentation** (to be added if needed)
 
-----
+--------
+
 ## Project issues/caveats
-* caveat1
+* None
 
-----
+--------
+
+## Project TODO list
+* Clean up the code, move it on GitHub
+* Investigate automatic transfer from VAST to Z-Fishator
+
+--------
+
 ## Project History
-* year
-    * week: 
-        * item
-            * subitem
+* 2023
+    * February 
+        * Prototype code up and running with VAST images
+        * To few images to obtain a decent training (need a few hundreds)
+
 
