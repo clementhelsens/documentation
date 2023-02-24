@@ -7,6 +7,7 @@
 * **Status:** Ongoing
 * **Goals:**
   * Maintain a common linux (ubuntu) machine for different users
+  * Help users with setting up the environment/Software they need
 * **Contributors:**
 * **Users:**
   * [Deep Learning Embryo Classification](DLEC_project)
@@ -20,21 +21,22 @@
 
 ## Project TODO list
 
-* Contac
+* Set up a server to access this documentation and display monitoring plots
+* Set up a backup system
 
 --------
 
 ## Project issues/caveats
 
-* f
+* Might be limited if too many users
+* ssh connection with HIVE very slow
 
 --------
-
 
 ## Project History
 
 * 2023
-    * week: 
-        * item
-            * subitem
-
+  * February
+    * Continue with setting up specific environments
+  * January
+    * Initial setup of the machine
