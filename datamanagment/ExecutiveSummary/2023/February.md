@@ -100,3 +100,14 @@
 * Continue with machine configuration with setting up specific environments for all users
 * Thinking about connecting the machine to the HIVE
   * Need to investigate the possibility and need to physically connect the HIVE and Z-Fishator linux machine with optical fiber
+
+--------------
+
+**Other**
+
+* Brainstormed with Ece about alignment calibration procedure
+  * Converged on using a 3D printed mask in the petri dish (big cross with markers)
+  * Align the petri disk mask with a software mask and we are done!
+* Follow up with Ece after lab meeting 21.02
+  * the x-y movements of the petri dish are not sufficient to correct the robot movements
+  * she will add a rotation degree of freedom

@@ -1,7 +1,9 @@
 (name_project)=
+
 # <name>
 
 ## Project summary
+
 * **Status:** 
 * **Goals:** 
 * **Contributors:** 
