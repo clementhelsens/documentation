@@ -1,7 +1,7 @@
 # Pipeline Cristina
 
 This is the documentation about Cristina's pipeline.
-We login to a linux machine we have in the lab `ssh -X <username>@128.178.192.147`
+We login to a linux machine
 
 running cellranger
 ```shell
