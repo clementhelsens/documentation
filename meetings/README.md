@@ -1,4 +1,4 @@
-# Meetings
+# Indico Meetings
 
 :::{admonition} Prerequisites
 :class: prereq
