@@ -46,4 +46,5 @@ cellranger count --fastqs=/mnt/nas-rcp/data/sequencing/scRNA-seq/wildtype/fastq/
 ```
 
 replace `<X>` by the appropriate replicate number.
+The reference genome that we are using is `Danio_rerio.GRCz11.dna.primary_assembly.fa.gz` from ensembl, release 108
 

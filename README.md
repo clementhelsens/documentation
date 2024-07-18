@@ -12,6 +12,7 @@ Please enjoy reading this documentation as much as we enjoyed writing it. You wi
     :maxdepth: 1
     :caption: Contents:
 
+    single_cells/README.md
     sequencing/README.md
     pipeline_olivier/README.md
     commontools/README.md
