@@ -122,5 +122,3 @@ It is now possible to register all the new raw-datasets to the single cell datab
 
 To build the ROI and detect the cells, select the experiment in the left dropdown menu  `--Choose an experiment--`. Make sure it is properly selected by checking the metadata associated to the experiment displayed at the bottom. Then click `Build ROIs (sample)` at the bottom of the page (Note, you do not need to choose a well for the building the ROIs). This will take ~10 minutes (depending on the number of positions) to process all the positions of your experiments. You know when this is over when the page has finished to reload. When it is finished, you can open the [single cell dashboard](http://127.0.0.1:8001/segmentation/bokeh_dashboard) and look at your experiment, or the [summary dashboard](http://127.0.0.1:8001/segmentation/bokeh_summary_dashboard). On the single cell dashboard there is a plot of predicted time of death, that does not appear yet on the summary dashboard.
 
-
-
